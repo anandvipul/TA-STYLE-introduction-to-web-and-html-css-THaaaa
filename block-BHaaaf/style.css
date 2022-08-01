@@ -1,0 +1,18 @@
+body {
+	background-color: antiquewhite ;
+}
+
+.out-of-box {
+	color: green;
+}
+
+h1 {
+	color: red;
+	font-size: 50px;
+}
+
+p {
+	color: blue;
+	font-size: 20px;
+}
+

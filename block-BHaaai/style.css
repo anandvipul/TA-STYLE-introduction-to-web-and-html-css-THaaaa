@@ -1,0 +1,30 @@
+body {
+	background-color: #22396A;
+	color: white;
+}
+
+h2 {
+	color: #00ff3a;
+}
+
+
+ul {
+	list-style-type: none;
+	
+}
+
+.connect li {
+	display: inline;
+	padding: 10px 40px;
+	
+}
+
+.connect li a {
+	color: red;
+}
+
+
+
+.center-content {
+	text-align: center;
+}
